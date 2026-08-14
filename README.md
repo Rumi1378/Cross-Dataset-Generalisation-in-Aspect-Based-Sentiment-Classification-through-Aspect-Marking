@@ -1,6 +1,6 @@
 # Aspect-Based Sentiment Classification: Improving Cross-Dataset Generalisation through Aspect Marking
 
-Final year dissertation comparing SVM, BiLSTM, BERT, and RoBERTa on aspect-based sentiment classification, evaluating how well each architecture generalises from a standard benchmark (SemEval-2014) to a harder, multi-aspect dataset (MAMS). A simple input-level technique, aspect marking, is then introduced and tested as a way to close that generalisation gap.
+Comparing SVM, BiLSTM, BERT, and RoBERTa on aspect-based sentiment classification, evaluating how well each architecture generalises from a standard benchmark (SemEval-2014) to a harder, multi-aspect dataset (MAMS). A simple input-level technique, aspect marking, is then introduced and tested as a way to close that generalisation gap.
 
 ## Overview
 
